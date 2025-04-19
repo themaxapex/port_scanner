@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folder
+.venv/
+
+# VS Code settings
+.vscode/
+
+# System files (optional, safe to ignore)
+.DS_Store
+
